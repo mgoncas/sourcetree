@@ -2,4 +2,8 @@ dsfdsfsdf
 fdsddfdsfd
 aaa
 master
+<<<<<<< HEAD
 local
+=======
+remoto
+>>>>>>> 5fa4099cafa0e1a46a7f2cf61a71dcb213abf7b3
